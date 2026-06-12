@@ -70,7 +70,7 @@ class App:
         self.running = False
 
         self.root = tk.Tk()
-        self.root.title("Local Swagger UI")
+        self.root.title("swagger-local-viewer")
         self.root.geometry("440x230")
         self.root.resizable(False, False)
         self.root.configure(bg=BG)

@@ -1,4 +1,4 @@
-# Local Swagger UI Viewer
+# swagger-local-viewer
 
 A zero-dependency desktop app that lets you preview any OpenAPI YAML/JSON file
 in your browser — no internet, no Docker, no npm.
