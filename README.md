@@ -3,7 +3,7 @@
 A zero-dependency desktop app that lets you preview any OpenAPI YAML/JSON file
 in your browser — no internet, no Docker, no npm.
 
-![screenshot](https://i.imgur.com/placeholder.png)
+![screenshot](screenshots/appGUI.jpg)
 
 ## Features
 
